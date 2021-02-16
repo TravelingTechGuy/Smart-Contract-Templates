@@ -8,7 +8,7 @@ This contract creates a simple ERC20 (or BEP20 on Binance Smart Chain).
 
 ### How to use
 
-1. Open the [ReMix](https://remix.ethereum.org/) editor
+1. Open the [Remix](https://remix.ethereum.org/) online IDE
 1. Paste the contents of `ERC20.sol` into a new editor tab
 1. Change the following values:
     1. Solidity version needs to match the current value in [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
